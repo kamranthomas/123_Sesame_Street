@@ -1,2 +1,12 @@
 #output of the latex
 *.pdf
+
+*.aux
+
+*.log
+
+*.nav
+
+*.synctex.gz
+
+*.toc
