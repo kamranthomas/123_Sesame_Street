@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.7)  14 OCT 2017 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.7)  14 OCT 2017 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1321,32 +1321,55 @@ Package: printlen 2009/09/03 v1.1a print lengths with units
 ))
 \stratum@img@y=\dimen268
 )
-(./studying_abroad.aux)
-\openout1 = `studying_abroad.aux'.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+LaTeX Font Info:    Font shape `LY1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `LY1/ptm/b/n' tried instead on input line 356.
 LaTeX Font Info:    Try loading font information for LY1+YanoneKaffeesatzZeroHa
-ckBeamer on input line 23.
+ckBeamer on input line 357.
 
 (/usr/local/texlive/texmf-local/tex/latex/stratum0/LY1YanoneKaffeesatzZeroHackB
 eamer.fd
 File: LY1YanoneKaffeesatzZeroHackBeamer.fd 
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/ly1/ly1enc.def
+File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
+LaTeX Font Info:    Redeclaring font encoding LY1 on input line 11.
+)))
+(./studying_abroad.aux)
+\openout1 = `studying_abroad.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 26.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
+LaTeX Font Info:    ... okay on input line 26.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1413,7 +1436,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1423,69 +1446,69 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count173
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (./studying_abroad.out) (./studying_abroad.out)
 \@outlinefile=\write5
 \openout5 = `studying_abroad.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/ppl/m/n --> OT1/cmss/m/n on input line 23.
+(Font)                  OT1/ppl/m/n --> OT1/cmss/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/ppl/b/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/ppl/b/n --> OT1/cmss/bx/n on input line 26.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  OT1/cmss/m/n --> LY1/YanoneKaffeesatzZeroHackBeamer/m/n
- on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
+ on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/zplm/b/n --> LY1/YanoneKaffeesatzZeroHackBeamer/bx/
-n on input line 23.
+n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  OT1/zplm/b/n --> LY1/YanoneKaffeesatzZeroHackBeamer/bx/
-n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
+n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/m/n --> LY1/YanoneKa
-ffeesatzZeroHackBeamer/m/n on input line 23.
+ffeesatzZeroHackBeamer/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> LY1/YanoneKaffeesatzZeroHackBeamer/m/
-n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
+n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/ppl/m/it --> LY1/YanoneKaffeesatzZeroHackBeamer/m/i
-t on input line 23.
+t on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/ppl/b/it --> LY1/YanoneKaffeesatzZeroHackBeamer/m/i
-t on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
+t on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  LY1/lmtt/m/n --> LY1/lmvtt/m/n on input line 23.
+(Font)                  LY1/lmtt/m/n --> LY1/lmvtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> LY1/lmvtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> LY1/lmvtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/m/n --> LY1/YanoneKa
-ffeesatzZeroHackBeamer/bx/n on input line 23.
+ffeesatzZeroHackBeamer/bx/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/m/it --> LY1/YanoneK
-affeesatzZeroHackBeamer/bx/it on input line 23.
+affeesatzZeroHackBeamer/bx/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  OT1/cmss/bx/n --> LY1/YanoneKaffeesatzZeroHackBeamer/bx
-/n on input line 23.
+/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/bx/n --> LY1/YanoneK
-affeesatzZeroHackBeamer/bx/n on input line 23.
+affeesatzZeroHackBeamer/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/m/n --> LY1/YanoneKa
-ffeesatzZeroHackBeamer/bx/n on input line 23.
+ffeesatzZeroHackBeamer/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  LY1/YanoneKaffeesatzZeroHackBeamer/m/it --> LY1/YanoneK
-affeesatzZeroHackBeamer/bx/it on input line 23.
+affeesatzZeroHackBeamer/bx/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  LY1/lmvtt/m/n --> LY1/lmvtt/bx/n on input line 23.
+(Font)                  LY1/lmvtt/m/n --> LY1/lmvtt/bx/n on input line 26.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1511,26 +1534,26 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 23.
+LaTeX Info: Redefining \includegraphics on input line 26.
 
 (./studying_abroad.nav)
 <img/stratum0_plain_logo.pdf, id=42, 616.70403pt x 616.70403pt>
 File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
 
 <use img/stratum0_plain_logo.pdf>
-Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 23.
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 26.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
 
 <img/stratum0_logo.pdf, id=43, 87.06178pt x 112.53242pt>
 File: img/stratum0_logo.pdf Graphic file (type pdf)
 
 <use img/stratum0_logo.pdf>
-Package pdftex.def Info: img/stratum0_logo.pdf used on input line 27.
+Package pdftex.def Info: img/stratum0_logo.pdf used on input line 30.
 (pdftex.def)             Requested size: 113.81102pt x 147.11804pt.
 LaTeX Font Info:    Font shape `LY1/YanoneKaffeesatzZeroHackBeamer/bx/n' in siz
 e <14.4> not available
 (Font)              Font shape `LY1/YanoneKaffeesatzZeroHackBeamer/b/n' tried i
-nstead on input line 27.
+nstead on input line 30.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </usr/lo
@@ -1617,74 +1640,82 @@ Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 5.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
  [7
 
+]
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+ <use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 8.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+
+[8
+
 ]) (./sections/uni.tex
 File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
-
-<use img/stratum0_plain_logo.pdf>
+ <use img/stratum0_plain_logo.pdf>
 Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 5.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
- [8
+ [9
 
 ])
 File: img/stratum0_logo.pdf Graphic file (type pdf)
- <use img/stratum0_logo.pdf>
-Package pdftex.def Info: img/stratum0_logo.pdf used on input line 40.
+
+<use img/stratum0_logo.pdf>
+Package pdftex.def Info: img/stratum0_logo.pdf used on input line 43.
 (pdftex.def)             Requested size: 113.81102pt x 147.11804pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
  []
 
 LaTeX Font Info:    Font shape `LY1/YanoneKaffeesatzZeroHackBeamer/bx/n' in siz
 e <10> not available
 (Font)              Font shape `LY1/YanoneKaffeesatzZeroHackBeamer/b/n' tried i
-nstead on input line 40.
-LaTeX Font Info:    Try loading font information for LY1+lmvtt on input line 40
+nstead on input line 43.
+LaTeX Font Info:    Try loading font information for LY1+lmvtt on input line 43
 .
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ly1lmvtt.fd
 File: ly1lmvtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 40.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 43.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 40.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 43.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 40.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 43.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 40.
+(Font)              scaled to size 10.42007pt on input line 43.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 40.
+(Font)              scaled to size 7.91925pt on input line 43.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 40.
+(Font)              scaled to size 6.25204pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 40.
+(Font)              scaled to size 10.42007pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 40.
+(Font)              scaled to size 7.91925pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 40.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 40.
+(Font)              scaled to size 6.25204pt on input line 43.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 43.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [9
+) [10
 
 ]
 \tf@nav=\write6
@@ -1696,21 +1727,21 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \tf@snm=\write8
 \openout8 = `studying_abroad.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 
 (./studying_abroad.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `studying_abroad.out' has not changed.
 (rerunfilecheck)             Checksum: B71E6AD403D1D23DF511C8AD52EF8DC7;301.
  ) 
 Here is how much of TeX's memory you used:
- 21680 strings out of 492995
- 417674 string characters out of 6132705
- 491931 words of memory out of 5000000
- 24603 multiletter control sequences out of 15000+600000
- 120452 words of font info for 57 fonts, out of 8000000 for 9000
+ 22501 strings out of 492995
+ 428184 string characters out of 6132705
+ 497927 words of memory out of 5000000
+ 25404 multiletter control sequences out of 15000+600000
+ 124192 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,17n,71p,810b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-texnansi.enc}{/usr/
@@ -1719,10 +1750,10 @@ live/texmf-local/fonts/type1/YanoneKaffeesatzZeroHack/YanoneKaffeesatzZeroHack-
 Light.pfb></usr/local/texlive/texmf-local/fonts/type1/YanoneKaffeesatzZeroHack/
 YanoneKaffeesatzZeroHack-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmvtt10.pfb>
-Output written on studying_abroad.pdf (9 pages, 4044167 bytes).
+Output written on studying_abroad.pdf (10 pages, 4045210 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
