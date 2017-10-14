@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.7)  14 OCT 2017 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.7)  14 OCT 2017 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1636,24 +1636,310 @@ Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 5.
 File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
 
 <use img/stratum0_plain_logo.pdf>
-Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 5.
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 7.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
  [7
 
 ]
+
+LaTeX Warning: File `1.0_where_is_this_Kamran' not found on input line 13.
+
+
+! LaTeX Error: Unknown graphics extension: .0_where_is_this_Kamran.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
- <use img/stratum0_plain_logo.pdf>
-Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 8.
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 13.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [8
 
-[8
+]
 
-]) (./sections/uni.tex
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.1_paris_boat_friends' not found on input line 22.
+
+
+! LaTeX Error: Unknown graphics extension: .1_paris_boat_friends.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.2_paris_eiffel_boat' not found on input line 22.
+
+
+! LaTeX Error: Unknown graphics extension: .2_paris_eiffel_boat.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 22.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [9
+
+]
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<images/06_opportunities/cph_trainstation.png, id=109, 1246.6575pt x 2216.28pt>
+File: images/06_opportunities/cph_trainstation.png Graphic file (type png)
+<use images/06_opportunities/cph_trainstation.png>
+Package pdftex.def Info: images/06_opportunities/cph_trainstation.png used on i
+nput line 31.
+(pdftex.def)             Requested size: 207.13531pt x 181.4994pt.
+
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/06_opportunities/cph_skateboard.jpg, id=111, 1284.8pt x 963.6pt>
+File: images/06_opportunities/cph_skateboard.jpg Graphic file (type jpg)
+
+<use images/06_opportunities/cph_skateboard.jpg>
+Package pdftex.def Info: images/06_opportunities/cph_skateboard.jpg used on inp
+ut line 31.
+(pdftex.def)             Requested size: 207.12094pt x 181.49794pt.
+
+Overfull \vbox (15.72566pt too high) detected at line 31
+ []
+
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 31.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [10
+
+ <./images/06_opportunities/cph_trainstation.png> <./images/06_opportunities/cp
+h_skateboard.jpg>]
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 38.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [11
+
+]
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.0_where_is_this_Daniel' not found on input line 44.
+
+
+! LaTeX Error: Unknown graphics extension: .0_where_is_this_Daniel.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 44.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [12
+
+]
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{frame}
+                
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package keyval Error: keepaspectration undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{frame}
+                
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
+<use img/stratum0_plain_logo.pdf>
+Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 53.
+(pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
+ [13
+
+]
+! Argument of \frame has an extra }.
+<inserted text> 
+                \par 
+l.59 ...ht, keepaspectration]high_voltage_lab_DTU}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{Opportunities} \begin {center} \includegraphics [width=\textwidth , \ETC.
+! Paragraph ended before \frame was complete.
+<to be read again> 
+                   \par 
+l.59 ...ht, keepaspectration]high_voltage_lab_DTU}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.59 ...ht, keepaspectration]high_voltage_lab_DTU}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{frame} on input line 57 ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra }, or forgotten \endgroup.
+\endframe ->\egroup 
+                    \begingroup \def \@currenvir {frame}
+l.61 \end{frame}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) (./sections/uni.tex
 File: img/stratum0_plain_logo.pdf Graphic file (type pdf)
  <use img/stratum0_plain_logo.pdf>
 Package pdftex.def Info: img/stratum0_plain_logo.pdf used on input line 5.
 (pdftex.def)             Requested size: 45.52621pt x 45.52718pt.
- [9
+ [14
 
 ])
 File: img/stratum0_logo.pdf Graphic file (type pdf)
@@ -1715,7 +2001,7 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 43.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [10
+) [15
 
 ]
 \tf@nav=\write6
@@ -1727,33 +2013,50 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \tf@snm=\write8
 \openout8 = `studying_abroad.snm'.
 
+
+
+! LaTeX Error: \begin{frame} on input line 57 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
-
 (./studying_abroad.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `studying_abroad.out' has not changed.
 (rerunfilecheck)             Checksum: B71E6AD403D1D23DF511C8AD52EF8DC7;301.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 57 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 22501 strings out of 492995
- 428184 string characters out of 6132705
+ 22569 strings out of 492995
+ 429438 string characters out of 6132705
  497927 words of memory out of 5000000
- 25404 multiletter control sequences out of 15000+600000
+ 25438 multiletter control sequences out of 15000+600000
  124192 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,17n,71p,810b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-texnansi.enc}{/usr/
-local/texlive/texmf-local/fonts/enc/dvips/Fontshop/a_niuh6m.enc}</usr/local/tex
-live/texmf-local/fonts/type1/YanoneKaffeesatzZeroHack/YanoneKaffeesatzZeroHack-
-Light.pfb></usr/local/texlive/texmf-local/fonts/type1/YanoneKaffeesatzZeroHack/
-YanoneKaffeesatzZeroHack-Regular.pfb></usr/local/texlive/2017/texmf-dist/fonts/
-type1/public/lm/lmvtt10.pfb>
-Output written on studying_abroad.pdf (10 pages, 4045210 bytes).
+ 61i,17n,71p,810b,1151s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-texna
+nsi.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/Fontshop/a_niuh6m.enc}<
+/usr/local/texlive/texmf-local/fonts/type1/YanoneKaffeesatzZeroHack/YanoneKaffe
+esatzZeroHack-Light.pfb></usr/local/texlive/texmf-local/fonts/type1/YanoneKaffe
+esatzZeroHack/YanoneKaffeesatzZeroHack-Regular.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/lm/lmvtt10.pfb>
+Output written on studying_abroad.pdf (15 pages, 10223192 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
